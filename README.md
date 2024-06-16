@@ -1,6 +1,19 @@
 # 💫 About Me:
-🎓 I hold a Master of Science in Computer Science from Stevens Institute of Technology, with a Graduate Certificate in Machine Learning. My academic journey has been marked by a deep dive into subjects like Artificial Intelligence, Natural Language Processing, and Database Management Systems.<br><br>🛠️ Currently, I am channeling this knowledge into developing ArthNiti, a Personal Finance Management tool that combines intuitive design with powerful analytics, and PulsePoint: A personal project exploring AI-driven news summarization and content enhancement.<br><br>💼 My experience includes significant projects and internships, where I've applied my skills in machine learning, web development, and cloud services.<br>
 
+🎓 **Educational Background**:<br>
+I hold a Master of Science in Computer Science from Stevens Institute of Technology, complemented by a Graduate Certificate in Machine Learning. My academic pursuits have deeply immersed me in the realms of Artificial Intelligence, Natural Language Processing, and Database Management Systems, shaping a robust foundation for my career.
+
+🛠️ **Current Endeavors**:<br>
+Harnessing my academic and practical expertise, I am currently engaged in several innovative projects:
+
+- **ArthNiti**: A sophisticated Personal Finance Management tool designed to simplify financial planning. ArthNiti combines an intuitive user interface with powerful analytics to provide comprehensive insights into personal finances.
+- **PulsePoint**: An AI-driven project focused on news summarization and content enhancement. PulsePoint leverages cutting-edge AI techniques to deliver concise and informative news summaries, keeping users informed with minimal effort.
+- **RemindRing**: A unique app aimed at helping individuals, particularly those who procrastinate or struggle with anxiety and depression, stay on top of their chores. RemindRing utilizes persistent, personalized reminders, including calls or video messages from loved ones, to ensure tasks are completed.
+- **Namaste Chingu Lingua!**: An innovative language learning app that integrates the best features of popular platforms with collaborative and immersive learning experiences. It combines gamified lessons, real-time communication, and personalized tutoring to offer a holistic language learning journey.
+- **Homecooked Haven**: A recipe-sharing platform designed for international students living away from home. It features recipes from mothers around the world, making cooking in a new environment easier and more enjoyable.
+
+💼 **Professional Experience**:<br>
+My professional journey includes significant projects and internships where I have applied my skills in machine learning, web development, and cloud services. These experiences have honed my ability to tackle complex challenges and deliver impactful solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/n-surya) 
