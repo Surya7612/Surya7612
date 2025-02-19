@@ -5,12 +5,12 @@ I hold a Master of Science in Computer Science from Stevens Institute of Technol
 
 🛠️ **Current Endeavors**:<br>
 Harnessing my academic and practical expertise, I am currently engaged in several innovative projects:
-
+- **Homecooked Haven**: A recipe-sharing platform designed for international students living away from home. It features recipes from mothers around the world, making cooking in a new environment easier and more enjoyable. I pivoted a bit and now we are Havenly - A HomeCooked Haven ([https://havenly.food/](https://havenly.food/))
+- AceIt AI([https://ace-it-ai.replit.app](https://ace-it-ai.replit.app)) – An AI-powered interview preparation assistant that personalizes study plans, extracts insights from uploaded materials, uses AI search engine and acts as a proactive AI tutor to optimize job readiness.
 - **ArthNiti**: A sophisticated Personal Finance Management tool designed to simplify financial planning. ArthNiti combines an intuitive user interface with powerful analytics to provide comprehensive insights into personal finances.
 - **PulsePoint**: An AI-driven project focused on news summarization and content enhancement. PulsePoint leverages cutting-edge AI techniques to deliver concise and informative news summaries, keeping users informed with minimal effort.
 - **RemindRing**: A unique app aimed at helping individuals, particularly those who procrastinate or struggle with anxiety and depression, stay on top of their chores. RemindRing utilizes persistent, personalized reminders, including calls or video messages from loved ones, to ensure tasks are completed.
 - **Namaste Chingu Lingua!**: An innovative language learning app that integrates the best features of popular platforms with collaborative and immersive learning experiences. It combines gamified lessons, real-time communication, and personalized tutoring to offer a holistic language learning journey.
-- **Homecooked Haven**: A recipe-sharing platform designed for international students living away from home. It features recipes from mothers around the world, making cooking in a new environment easier and more enjoyable.
 
 💼 **Professional Experience**:<br>
 My professional journey includes significant projects and internships where I have applied my skills in machine learning, web development, and cloud services. These experiences have honed my ability to tackle complex challenges and deliver impactful solutions.
