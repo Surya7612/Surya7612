@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-**Portfolio**:[https://surya-nediyadeth.replit.app/]<br>
+**Portfolio**: https://surya-nediyadeth.replit.app/ <br>
 
 🎓 **Educational Background**:<br>
 I hold a Master of Science in Computer Science from Stevens Institute of Technology, complemented by a Graduate Certificate in Machine Learning. My academic pursuits have deeply immersed me in the realms of Artificial Intelligence, Natural Language Processing, and Database Management Systems, shaping a robust foundation for my career.
