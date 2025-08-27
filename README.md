@@ -7,7 +7,7 @@ I hold a Master of Science in Computer Science from Stevens Institute of Technol
 
 🛠️ **Current Endeavors**:<br>
 Harnessing my academic and practical expertise, I am currently engaged in several innovative projects:
-- **Havenly AI**: At Havenly, I’m creating AI companions that don’t replace people, but extend presence and connection — blending human memory, emotion, and skill into interactive avatars.([havenlyai.com])
+- **Havenly AI**: At Havenly, I’m creating AI companions that don’t replace people, but extend presence and connection — blending human memory, emotion, and skill into interactive avatars.([[havenlyai.com](https://havenlyai.com/)])
 - (Previous version of Havenly) **Homecooked Haven**: A recipe-sharing platform designed for international students living away from home. It features recipes from mothers around the world, making cooking in a new environment easier and more enjoyable. I pivoted a bit and now we are Havenly - A HomeCooked Haven ([https://havenly.food/](https://havenly.food/))
 - **AceIt AI**([https://ace-it-ai.replit.app](https://ace-it-ai.replit.app)) – An AI-powered interview preparation assistant that personalizes study plans, extracts insights from uploaded materials, uses AI search engine and acts as a proactive AI tutor to optimize job readiness.
 - **ArthNiti**: A sophisticated Personal Finance Management tool designed to simplify financial planning. ArthNiti combines an intuitive user interface with powerful analytics to provide comprehensive insights into personal finances.
