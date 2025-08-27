@@ -1,11 +1,14 @@
 # 💫 About Me:
 
+**Portfolio**:[https://surya-nediyadeth.replit.app]/<br>
+
 🎓 **Educational Background**:<br>
 I hold a Master of Science in Computer Science from Stevens Institute of Technology, complemented by a Graduate Certificate in Machine Learning. My academic pursuits have deeply immersed me in the realms of Artificial Intelligence, Natural Language Processing, and Database Management Systems, shaping a robust foundation for my career.
 
 🛠️ **Current Endeavors**:<br>
 Harnessing my academic and practical expertise, I am currently engaged in several innovative projects:
-- **Homecooked Haven**: A recipe-sharing platform designed for international students living away from home. It features recipes from mothers around the world, making cooking in a new environment easier and more enjoyable. I pivoted a bit and now we are Havenly - A HomeCooked Haven ([https://havenly.food/](https://havenly.food/))
+- **Havenly AI**: At Havenly, I’m creating AI companions that don’t replace people, but extend presence and connection — blending human memory, emotion, and skill into interactive avatars.([havenlyai.com])
+- (Previous version of Havenly) **Homecooked Haven**: A recipe-sharing platform designed for international students living away from home. It features recipes from mothers around the world, making cooking in a new environment easier and more enjoyable. I pivoted a bit and now we are Havenly - A HomeCooked Haven ([https://havenly.food/](https://havenly.food/))
 - **AceIt AI**([https://ace-it-ai.replit.app](https://ace-it-ai.replit.app)) – An AI-powered interview preparation assistant that personalizes study plans, extracts insights from uploaded materials, uses AI search engine and acts as a proactive AI tutor to optimize job readiness.
 - **ArthNiti**: A sophisticated Personal Finance Management tool designed to simplify financial planning. ArthNiti combines an intuitive user interface with powerful analytics to provide comprehensive insights into personal finances.
 - **PulsePoint**: An AI-driven project focused on news summarization and content enhancement. PulsePoint leverages cutting-edge AI techniques to deliver concise and informative news summaries, keeping users informed with minimal effort.
@@ -13,7 +16,7 @@ Harnessing my academic and practical expertise, I am currently engaged in severa
 - **Namaste Chingu Lingua!**: An innovative language learning app that integrates the best features of popular platforms with collaborative and immersive learning experiences. It combines gamified lessons, real-time communication, and personalized tutoring to offer a holistic language learning journey.
 
 💼 **Professional Experience**:<br>
-My professional journey includes significant projects and internships where I have applied my skills in machine learning, web development, and cloud services. These experiences have honed my ability to tackle complex challenges and deliver impactful solutions.
+My professional journey includes significant projects and internships where I have applied my skills in machine learning, web development, and cloud services. These experiences have honed my ability to tackle complex challenges and deliver impactful solutions. I have a total of 3 years of experience in the Software Development domain.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/n-surya) 
@@ -34,4 +37,4 @@ My professional journey includes significant projects and internships where I ha
 ---
 [![](https://visitcount.itsvg.in/api?id=Surya7612&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
